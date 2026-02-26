@@ -11,7 +11,7 @@ if keyboard_check(vk_right) {
 
 if(place_meeting(x,y+1,oSolid)){
 	if(keyboard_check(vk_up)) {
-		y_speed = -8;
+		y_speed = -6;
 	} else {
 		y_speed=0;
 	}
@@ -27,4 +27,12 @@ if (y > room_height or y < 0 or x > room_width or x < 0) { // if the player is o
 
     room_restart(); 
 
+}
+
+if (place_meeting(x,y,oFlag) && (room == Room2)){
+	room_goto(Room_WIN);
+}
+
+if (place_meeting(x,y,oFlag)&& (room == Room1)){
+	room_goto(Room2);
 }

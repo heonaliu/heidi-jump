@@ -3,23 +3,23 @@
   "%Name":"sFlag",
   "bboxMode":0,
   "bbox_bottom":15,
-  "bbox_left":2,
+  "bbox_left":1,
   "bbox_right":12,
-  "bbox_top":2,
+  "bbox_top":1,
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"6803fffb-4582-4d52-876d-2e6e668f08be","name":"6803fffb-4582-4d52-876d-2e6e668f08be","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"0e480db3-8485-47dd-9dcf-7e901b237546","name":"0e480db3-8485-47dd-9dcf-7e901b237546","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":16,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"8f638465-eb88-4774-90d6-f05e89d1915d","blendMode":0,"displayName":"default","isLocked":false,"name":"8f638465-eb88-4774-90d6-f05e89d1915d","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"a0dcfa66-1fba-4d30-854c-48ebdafc11e9","blendMode":0,"displayName":"default","isLocked":false,"name":"a0dcfa66-1fba-4d30-854c-48ebdafc11e9","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"sFlag",
   "nineSlice":null,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"6803fffb-4582-4d52-876d-2e6e668f08be","path":"sprites/sFlag/sFlag.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"830976d4-aff2-4fa3-982f-e582e59ef81f","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"0e480db3-8485-47dd-9dcf-7e901b237546","path":"sprites/sFlag/sFlag.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"52dfb11b-e487-43da-9709-d4de8c2fcf9b","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
